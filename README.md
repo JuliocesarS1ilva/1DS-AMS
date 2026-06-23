@@ -33,7 +33,7 @@ Ele serve como base de estudo e evolução contínua em diferentes tecnologias.
 
 ```bash
 
-├── java/ # Exercícios em Java
-├── html-css/ # Projetos em HTML e CSS
 ├── calculadora-js/ # Calculadora em JavaScript
+├── html-css/ # Projetos em HTML e CSS
+├── java/ # Atividades em java
 └── README.md
