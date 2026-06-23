@@ -32,8 +32,8 @@ Ele serve como base de estudo e evolução contínua em diferentes tecnologias.
 ## 🗂 Estrutura do projeto
 
 ```bash
-/
-├── java/               # Exercícios em Java
-├── html-css/          # Projetos em HTML e CSS
-├── calculadora-js/    # Calculadora em JavaScript
+
+├── java/ # Exercícios em Java
+├── html-css/ # Projetos em HTML e CSS
+├── calculadora-js/ # Calculadora em JavaScript
 └── README.md
